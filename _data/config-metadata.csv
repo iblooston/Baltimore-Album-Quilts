@@ -4,14 +4,12 @@ creator,Creator,
 creative_activity, Creative Activity,true
 datecreated, Date,
 description,Description,
-medium, Medium,
+medium, Medium,true
 technique, Technique,true
 subject,Subjects,true
 blocksetting, Block Setting,true
 dimensions, Dimensions,
 location,Location
-latitude,Latitude
-longitude,Longitude,
 collection, Collection,
 source,Source
 identifier,Source Identifier,,
