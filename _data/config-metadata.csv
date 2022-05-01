@@ -1,12 +1,12 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-creative_activity, Creative Activity,true
+creative_activity, Creation,true
 datecreated, Date,
 description,Description,
 medium, Medium,true
 technique, Technique,true
-subject,Subjects,true
+subject,Subject,true
 blocksetting, Block Setting,true
 dimensions, Dimensions,
 location,Location
