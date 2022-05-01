@@ -1,14 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-creative_activity, Creative Activity, true
+creative_activity, Creative Activity,true
 date, Timeline
 datecreated, Date,
 description,Description,
 medium, Medium,
-technique, Technique,
+technique, Technique,true
 subject,Subjects,true
-blocksetting, Block Setting, true
+blocksetting, Block Setting,true
 dimensions, Dimensions,
 location,Location
 latitude,Latitude
