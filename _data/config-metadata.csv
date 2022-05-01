@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 creative_activity, Creation,true
-datecreated, Date,
+datecreated, Date Created,
 description,Description,
 medium, Medium,true
 technique, Technique,true
