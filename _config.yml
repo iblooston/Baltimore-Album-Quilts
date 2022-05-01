@@ -21,11 +21,11 @@ source-code: https://github.com/iblooston/baltimore-album-quilts
 #
 # title of site appears in banner
 title: Baltimore Album Quilts 
-# tagline, Expressions of the Mid-Nineteenth Century Style
-tagline: a template for creating simple digital exhibits
+# tagline, 
+tagline: Expressions of the Mid-Nineteenth Century Style
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is an image file collection comprising examples of Baltimore Album Quilts as well as quilts from the mid-Atlantic region that relate to the historic style originating in Baltimore in the 1840s and 1850s."
+description: "This is a digital image collection comprising examples of Baltimore Album Quilts as well as quilts from the mid-Atlantic region that relate to the historic style originating in Baltimore in the 1840s and 1850s."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: iblooston
 
