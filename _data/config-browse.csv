@@ -1,5 +1,9 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
+creative_activity,Creation
 subject,,true
+medium,Medium,
+technique,Technique
+blocksetting,Block Setting
 location,,true
