@@ -1,12 +1,19 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+creative_activity, Creative Activity, true
+date,Date,
+datecreated, Date Created,
 description,Description,
+medium, Medium,
+technique, Technique,
 subject,Subjects,true
+blocksetting, Block Setting, true
+dimensions, Dimensions,
 location,Location
 latitude,Latitude
-longitude,Longitude
+longitude,Longitude,
+collection, Collection,
 source,Source
 identifier,Source Identifier,,
 type,Type,
