@@ -8,7 +8,7 @@ medium, Medium,true
 technique, Technique,true
 subject,Subject,true
 blocksetting, Block Setting,true
-dimensions, Dimensions,
+dimensions, Dimensions (height x width),
 location,Location
 collection, Collection,
 source,Source
