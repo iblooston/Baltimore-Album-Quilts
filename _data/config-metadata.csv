@@ -2,7 +2,6 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 creative_activity, Creative Activity,true
-date, Timeline
 datecreated, Date,
 description,Description,
 medium, Medium,
