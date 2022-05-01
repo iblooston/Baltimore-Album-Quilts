@@ -1,7 +1,10 @@
 field,index,display
 title,true,true
-date,true,true
+datecreated,true,true
 creator,true,false
 description,true,true
 subject,true,true
+medium,true
+technique,true
+blocksetting,true
 location,true,false
