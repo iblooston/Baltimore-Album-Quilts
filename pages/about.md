@@ -21,9 +21,4 @@ credits: true
 This collection documents an exceptional genre of the appliqué quilt that proliferated in Baltimore in the 1840s and 1850s. Album quilts are made up of individually decorated blocks set in a grid; the Baltimore style that developed was one with a rich iconography of botanical 
 
 
-
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="quilt004" width="75" %}
