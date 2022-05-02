@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+“The increased availability of less costly fabrics during the early 19th century expanded the appliqué quilt tradition beyond the upper classes, who were the only ones who could previously afford the expensive fabric associated with this type of textile. The popularity of appliquéd quilts started around the 1840s and continued over the next few decades. Although appliquéd quilts often used repeated patterns laid out on a grid pattern, appliqué offered the maker the freedom and ability to create narrative and pictorial images, not easily achieved in pieced quilts often made from remnants of saved fabric.” [Art Institute Chicago] (https://www.artic.edu/artworks/76013/bedcover-cockscomb-rose-tree-and-pineapple-quilt)
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
