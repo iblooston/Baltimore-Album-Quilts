@@ -19,4 +19,8 @@ credits: true
 This collection documents an exceptional genre of the appliqué album quilt that proliferated in Baltimore in the 1840s and 1850s. The Baltimore style was developed by talented professional or semi-professional quiltmakers who designed the intricate blocks that the style is most known as well, as well as women who created quilts, often collaboratively, within the settings of their family, social, and religious lives. The contributions of each maker of some quilts can now be traced through extant signatures, dates, and inscriptions, marked in embroidery thread or with new inks that did not damage fabric. The rich iconography of the Baltimore style included botanical, poltical, maritime and civic symbols as well as emblems of the Odd Fellows and Masons, fraternal orders that flourished in Baltimore at the time. This collection covers a wide range of quilts in an understanding that the associatons of time, place, techniques, materials, and iconographies gave rise to diverse aesthetic expressions unified in their identification with the Baltimore style. Quilts originating beyond the borders of city are included to connect these quilts to the broader quiltmaking activity of the local region.
 
 
+
+
+
+
 {% include feature/image.html objectid="quilt004" width="50" %}
